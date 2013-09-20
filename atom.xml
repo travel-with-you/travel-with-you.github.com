@@ -2,15 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
   <title><![CDATA[計画トラベラー]]></title>
-  <link href="http://AppleScript-Guide.github.io/atom.xml" rel="self"/>
-  <link href="http://AppleScript-Guide.github.io/"/>
-  <updated>2013-09-20T21:51:04+09:00</updated>
-  <id>http://AppleScript-Guide.github.io/</id>
+  <link href="http://travel-with-you.github.io/atom.xml" rel="self"/>
+  <link href="http://travel-with-you.github.io/"/>
+  <updated>2013-09-20T22:07:15+09:00</updated>
+  <id>http://travel-with-you.github.io/</id>
   <author>
     <name><![CDATA[veadar]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[最初の記事]]></title>
+    <link href="http://travel-with-you.github.io/blog/2013/09/20/test/"/>
+    <updated>2013-09-20T22:06:00+09:00</updated>
+    <id>http://travel-with-you.github.io/blog/2013/09/20/test</id>
+    <content type="html"><![CDATA[<p>日記ブログを書いていこうと思う。</p>
+
+<p>過去に行った所や、これから行く所。</p>
+]]></content>
+  </entry>
   
 </feed>
