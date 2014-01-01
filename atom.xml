@@ -4,7 +4,7 @@
   <title><![CDATA[計画トラベラー]]></title>
   <link href="http://travel-with-you.github.io/atom.xml" rel="self"/>
   <link href="http://travel-with-you.github.io/"/>
-  <updated>2013-12-31T20:04:26+09:00</updated>
+  <updated>2014-01-01T18:06:16+09:00</updated>
   <id>http://travel-with-you.github.io/</id>
   <author>
     <name><![CDATA[veadar]]></name>
@@ -26,7 +26,7 @@
 <th align="left">交通手段</th>
 <th align="center">移動時間</th>
 <th align="center">快適さ</th>
-<th align="right">運賃</th>
+<th align="center">運賃</th>
 </tr>
 </thead>
 <tbody>
@@ -34,25 +34,25 @@
 <td align="left">飛行機</td>
 <td align="center">◎</td>
 <td align="center">◎</td>
-<td align="right">◎</td>
+<td align="center">◎</td>
 </tr>
 <tr>
 <td align="left">新幹線</td>
 <td align="center">○</td>
 <td align="center">○</td>
-<td align="right">△</td>
+<td align="center">△</td>
 </tr>
 <tr>
 <td align="left">高速バス</td>
 <td align="center">△</td>
 <td align="center">×</td>
-<td align="right">○</td>
+<td align="center">○</td>
 </tr>
 <tr>
 <td align="left">フェリー</td>
 <td align="center">×</td>
 <td align="center">△</td>
-<td align="right">◎</td>
+<td align="center">◎</td>
 </tr>
 </tbody>
 </table>
@@ -119,7 +119,7 @@
 
 <p>飛行機と比べて早い訳でもないし、かなり高いので利用する必要性があまりありません。</p>
 
-<p>定時に目的に着いてくれて、本数もかなりたくさん出ているのでビジネスや緊急時には役に立ちます。</p>
+<p>定時に目的地に着いてくれて、本数もかなりたくさん出ているのでビジネスや緊急時には役に立ちます。</p>
 
 <p>ただし運賃として例に出しているのは7日前まで予約しなければならない<a href="http://tickets.jr-odekake.net/shohindb/view/consumer/tokutoku/detail.html?shnId=113000601">のぞみ早特往復きっぷ</a>であり、普通に切符を買えば17020円なのでかなり高い出費となります。</p>
 
@@ -139,6 +139,8 @@
 <p>お盆などで高速バスも飛行機も新幹線も予約できなかった時のための最終手段。</p>
 
 <p>一度利用したことがあるのですが、移動時間が長く、乗り換えもかなりあるので辛かったです。</p>
+
+<p>フェリーとバスは<a href="http://travel.willer.co.jp/ferry/">Willer Expressで</a>予約します。</p>
 
 <p><a href="http://www.flickr.com/photos/85015353%40N00/11643743044/" title="IMG_2734 by veadar, on Flickr" target="_blank"><img class="flickr_photo" src="http://farm8.staticflickr.com/7422/11643743044_b18d998f18.jpg"  alt="IMG_2734" width="500px"/></a><br /><cite class="flickr_photographer"><img src="http://farm7.static.flickr.com/6002/5974401716_35b6041cdc.jpg" width="16" /><a href="http://www.flickr.com/photos/85015353%40N00/11643743044/">IMG_2734</a> Photo by <a href="http://www.flickr.com/photos/85015353%40N00/">veadar</a></cite></p>
 
